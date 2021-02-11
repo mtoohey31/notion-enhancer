@@ -1,0 +1,99 @@
+.katex {
+    font: normal 1.21em Fira Math !important;
+}
+
+.katex .textrm {
+    font-family: Fira Math !important;
+}
+
+.katex .textsf {
+    font-family: Fira Math !important;
+}
+
+.katex .texttt {
+    font-family: Fira Math !important;
+}
+
+.katex .mathdefault {
+    font-family: Fira Math !important;
+}
+
+.katex .mathit {
+    font-family: Fira Math !important;
+}
+
+.katex .mathbf {
+    font-family: Fira Math !important;
+}
+
+.katex .boldsymbol {
+    font-family: Fira Math !important;
+}
+
+.katex .amsrm,.katex .mathbb,.katex .textbb {
+    font-family: Fira Math !important;
+}
+
+.katex .mathcal {
+    font-family: Fira Math !important;
+}
+
+.katex .mathfrak,.katex .textfrak {
+    font-family: Fira Math !important;
+}
+
+.katex .mathtt {
+    font-family: Fira Math !important;
+}
+
+.katex .mathscr,.katex .textscr {
+    font-family: Fira Math !important;
+}
+
+.katex .mathsf,.katex .textsf {
+    font-family: Fira Math !important;
+}
+
+.katex .mathboldsf,.katex .textboldsf {
+    font-family: Fira Math !important;
+}
+
+.katex .mathitsf,.katex .textitsf {
+    font-family: Fira Math !important;
+}
+
+.katex .mainrm {
+    font-family: Fira Math !important;
+}
+
+.katex .delimsizing.size1 {
+    font-family: Fira Math !important;
+}
+
+.katex .delimsizing.size2 {
+    font-family: Fira Math !important;
+}
+
+.katex .delimsizing.size3 {
+    font-family: Fira Math !important;
+}
+
+.katex .delimsizing.size4 {
+    font-family: Fira Math !important;
+}
+
+.katex .delimsizing.mult .delim-size1>span {
+    font-family: Fira Math !important;
+}
+
+.katex .delimsizing.mult .delim-size4>span {
+    font-family: Fira Math !important;
+}
+
+.katex .op-symbol.small-op {
+    font-family: Fira Math !important;
+}
+
+.katex .op-symbol.large-op {
+    font-family: Fira Math !important;
+}
